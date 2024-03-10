@@ -12,10 +12,5 @@ This repository contains the code for an interactive Article Recommendation Syst
 - **Category Recommendation:** Includes a Category Recommendation System powered by decision trees, XGBoost, and LightGBM classifiers.
 - **Decision Support:** Demonstrates expertise in decision support methodologies, enhancing the recommendation precision.
 
-## Prerequisites
 
-
-
-- **Python:** 
-
-- **other-dependencies** 
+ 
